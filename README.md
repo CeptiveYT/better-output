@@ -3,8 +3,13 @@
 ## Install
 - ``` $ npm i better-output ```
 
-## Features 
-- ```warn() - will send an output in a red text with a timestamp```
-- ```log() - will send an output you provide with a timestamp```
-- ```dateNow() - will get the current date and time and output it in the console```
+## variables you could add
+- ```const { output, sum, generate } = require('better-output')```
+This will help pull the functions a lot easier!
 
+## Features 
+- Output
+- - ```output.log("your input here");```
+- - ```output.warn("your input here");```
+- - ```output.error("your input here");```
+- - ```output.dateNow("your input here");```
