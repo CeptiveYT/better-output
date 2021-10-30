@@ -1,0 +1,27 @@
+{
+  "name": "better-output",
+  "version": "1.1.5",
+  "description": "npm package to make the console output more aesthetic and readable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CeptiveYT/better-output.git"
+  },
+  "keywords": [
+    "console",
+    "output",
+    "ceptive"
+  ],
+  "author": "ceptive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CeptiveYT/better-output/issues"
+  },
+  "homepage": "https://github.com/CeptiveYT/better-output#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
