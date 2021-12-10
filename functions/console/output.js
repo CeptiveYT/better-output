@@ -24,6 +24,7 @@ function outputDateNow() {
     console.log(`Local Time: ${d.toLocaleString("US-eu")}`.cyan)
 }
 
+
 function outputError(input) {
     let d; 
 
